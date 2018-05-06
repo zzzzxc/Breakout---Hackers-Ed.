@@ -1,6 +1,6 @@
-# Project Title
+# Breakout -- Hackers Ed.
 
-Breakout -- Hackers Ed.
+A breakout clone written using C++ and SDL.
 
 # Screenshots
 
@@ -12,7 +12,7 @@ Breakout -- Hackers Ed.
 
 ## Authors
 
-* **Usama Zafar** - *Initial work* - [zzzzxc](https://github.com/zzzzxc)
+* **Usama Zafar** - [zzzzxc](https://github.com/zzzzxc)
 
 ## License
 
